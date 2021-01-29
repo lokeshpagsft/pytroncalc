@@ -7,7 +7,7 @@ import json
 def add():
    firstNumber = sys.argv[2]
    secondNumber = sys.argv[3]
-   return str(float(firstNumber) * float(secondNumber))
+   return str(float(firstNumber) + float(secondNumber))
 
    
 def substraction():
