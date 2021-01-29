@@ -25,5 +25,9 @@
     "path": "^0.12.7",
     "python-shell": "^2.0.0",
     "update-electron-app": "^2.0.1"
+  },
+  "build": {
+    "appId": "pytron-calc",
+    "asar": false
   }
 }
