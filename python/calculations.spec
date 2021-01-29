@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['calculations.py'],
-             pathex=['C:\\D drive\\Fidelity Height\\demos\\ElectronJs-Python\\pytron-calc\\pytron-calc source\\python'],
+             pathex=['C:\\D drive\\Fidelity Height\\demos\\updaterDemo\\pytron-calc source\\python'],
              binaries=[],
              datas=[],
              hiddenimports=[],

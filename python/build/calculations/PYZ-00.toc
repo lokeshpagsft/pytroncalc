@@ -1,4 +1,4 @@
-('C:\\D drive\\Fidelity Height\\demos\\ElectronJs-Python\\pytron-calc\\pytron-calc source\\python\\build\\calculations\\PYZ-00.pyz',
+('C:\\D drive\\Fidelity Height\\demos\\updaterDemo\\pytron-calc source\\python\\build\\calculations\\PYZ-00.pyz',
  [('codecs', 'C:\\Python27\\lib\\codecs.py', 'PYMODULE'),
   ('encodings', 'C:\\Python27\\lib\\encodings\\__init__.py', 'PYMODULE'),
   ('encodings.idna', 'C:\\Python27\\lib\\encodings\\idna.py', 'PYMODULE'),
